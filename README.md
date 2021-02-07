@@ -7,7 +7,11 @@
 
 - Marketing Data Analyst intern, MathWorks **March 2020 - Sep 2020**
 
-- Senior Data Analyst **July 2016 - Dec 2018**
+- Senior Data Analyst, Capgemini **July 2016 - Dec 2018**
+
+- Data Analyst - Experiential Internship, GE Aviation **Sep 2019 - Dec 2019**
+
+- Teaching Assistant, Northeastern University **Aug 2019 - Mar 2020**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
